@@ -1,0 +1,44 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": true,
+    "cuda": true,
+    "pools": [
+        {
+            "coin": "monero",
+            "url": "xmr-au1.nanopool.org:14433",
+            "user": "47buvuwhTuaW25PveNcNSMfkQioGaZj1iEREv522Z6pVaC5EYPoa52CczWqLT7iV3yZLcPLsd3AUbVrWzZUuX91jVondJui",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-jp1.nanopool.org:14433",
+            "user": "47buvuwhTuaW25PveNcNSMfkQioGaZj1iEREv522Z6pVaC5EYPoa52CczWqLT7iV3yZLcPLsd3AUbVrWzZUuX91jVondJui",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-asia1.nanopool.org:14433",
+            "user": "47buvuwhTuaW25PveNcNSMfkQioGaZj1iEREv522Z6pVaC5EYPoa52CczWqLT7iV3yZLcPLsd3AUbVrWzZUuX91jVondJui",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-us-east1.nanopool.org:14433",
+            "user": "47buvuwhTuaW25PveNcNSMfkQioGaZj1iEREv522Z6pVaC5EYPoa52CczWqLT7iV3yZLcPLsd3AUbVrWzZUuX91jVondJui",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-eu2.nanopool.org:14433",
+            "user": "47buvuwhTuaW25PveNcNSMfkQioGaZj1iEREv522Z6pVaC5EYPoa52CczWqLT7iV3yZLcPLsd3AUbVrWzZUuX91jVondJui",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-eu1.nanopool.org:14433",
+            "user": "47buvuwhTuaW25PveNcNSMfkQioGaZj1iEREv522Z6pVaC5EYPoa52CczWqLT7iV3yZLcPLsd3AUbVrWzZUuX91jVondJui",
+            "tls": true
+        }
+    ]
+}
